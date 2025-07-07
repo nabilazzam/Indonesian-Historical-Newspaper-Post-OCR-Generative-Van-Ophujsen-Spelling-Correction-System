@@ -1,1 +1,1 @@
-# Indonesian-Historical-Newspaper-Post-OCR-Generative-Van-Ophujsen-Spelling-Correction-System
+# Indonesian Historical Newspaper Post-OCR Generative Van Ophujsen Spelling Correction System
